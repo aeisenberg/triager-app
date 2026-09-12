@@ -1,0 +1,7 @@
+{
+  "name": "andrew-triager",
+  "description": "A plugin that triages issues and PRs according to Andrew.",
+  "version": "0.1.1",
+  "agents": "agents/",
+  "skills": "skills/"
+}
