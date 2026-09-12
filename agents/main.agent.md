@@ -1,8 +1,7 @@
 ---
 name: Triager Agent
 description: Triages a given issue or pull request
-model: gpt-5.6-sol
-reasoning-effort: high
+model: gpt-5.6-luna
 tools: [bash, shell, powershell, create, edit, view, agent, read_agent, create_pull_request, session_store_sql, "github/*"]
 github:
   permissions:
