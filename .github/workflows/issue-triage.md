@@ -5,7 +5,7 @@ intent: Reduce maintainer triage effort by accurately classifying newly opened i
 on:
   issues:
     types: [opened]
-  roles: all
+roles: all
 permissions:
   contents: read
   copilot-requests: write
